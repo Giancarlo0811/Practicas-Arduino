@@ -1,4 +1,4 @@
-# Proyectos-Arduino
+# Practicas-Arduino
 Proyectos con Arduino UNO.
 
 ## 01-Led Blinking
